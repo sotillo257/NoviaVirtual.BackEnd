@@ -1,0 +1,6 @@
+@NoviaVirtual.BackEnd_HostAddress = http://localhost:5207
+
+GET {{NoviaVirtual.BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
